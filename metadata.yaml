@@ -1,0 +1,30 @@
+_repo: Elizabethan-Demonology--13-An-Essay-in-Illustration-of-the-Belief-in-the-Existence-of-Devils-__12890
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Spalding, Thomas Alfred
+    birthdate: 1850
+    gutenberg_agent_id: '4695'
+    url: http://www.gutenberg.org/2009/agents/4695
+description: ''
+gutenberg_issued: '2004-07-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '12890'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Demonology -- England -- History -- 16th century'
+- !lcsh 'Devil in literature'
+- !lcsh 'Reformation -- England'
+- !lcsh 'Shakespeare, William, 1564-1616 -- Knowledge -- Occultism'
+- !lcsh 'Demonology in literature'
+- !lcc 'BF'
+- GITenberg
+title: "Elizabethan Demonology\r\nAn Essay in Illustration of the Belief in the Existence\
+  \ of Devils, and the Powers Possessed By Them, as It Was Generally Held during the\
+  \ Period of the Reformation, and the Times Immediately Succeeding; with Special\
+  \ Reference to Shakspere and His Works"
+url: http://www.gutenberg.org/ebooks/12890

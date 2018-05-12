@@ -1,5 +1,8 @@
 _repo: Elizabethan-Demonology--13-An-Essay-in-Illustration-of-the-Belief-in-the-Existence-of-Devils-__12890
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Spalding, Thomas Alfred
@@ -7,6 +10,8 @@ creator:
     gutenberg_agent_id: '4695'
     url: http://www.gutenberg.org/2009/agents/4695
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/12890#Elizabethan-Demonology--13-An-Essay-in-Illustration-of-the-Belief-in-the-Existence-of-Devils-_
 gutenberg_issued: '2004-07-12'
 gutenberg_type: Text
 identifiers:
